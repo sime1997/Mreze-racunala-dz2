@@ -1,0 +1,29 @@
+
+body{
+
+background-image:url(slika.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+}
+#mojNaslov{
+
+font-size:150px;
+font-style: oblique;
+}
+
+a {
+  color: black;
+  text-align: center;
+  background-color: #266150;
+  display: block;
+  margin: 10px 0px 0px 30px;
+  text-decoration: none;
+ border-radius: 12px;
+  width: 40%;
+  opacity:0.9;
+}
+a:hover{
+background-color: #9DC88D;
+
+}

@@ -1,0 +1,87 @@
+body{
+background-color:#9DC88D;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+  width: 100%;
+  margin: 0;
+
+}
+
+#mojNaslov{
+text-align: center;
+margin: 2%  45px  0px 26%;
+font-style:normal;
+background-color:#266150;
+padding:5px 0px 5px 0px;
+border-radius:20px;
+}
+#mojNaslov h1{
+font-size:100px;
+margin:0px;
+}
+
+#opcenitaLista{
+float:left;
+width:21%;
+margin-right: 30px;
+margin-left: 15px;
+margin-top: 50px;
+}
+
+#opcenitaLista li
+   {
+ background-color:#266150;
+border:1px solid;
+display:block;
+text-align:center;
+border-radius:5px;
+margin:0;
+  }
+
+  #opcenitaLista li a{
+text-decoration:none;
+color:black;
+font-size:30px;
+text-align:center;
+width:100%;
+display:block;
+}
+li a:hover {
+background-color: #9DC88D;
+border-radius: 5px;
+display: block;
+}
+#main{
+font-size: 30px;
+margin-right:40px;
+margin-left: 50px;
+margin-top: 50px;
+}
+#main a{
+  text-decoration: none;
+  color:#286150;
+}
+
+.skupa{
+  margin-top: 100px;
+}
+#slika{
+float:left;
+width:500px;
+margin-right:30px;
+padding:0px;
+}
+#slika img{
+width:500px;
+height:230px;
+}
+#slika2{
+float:right;
+width:500px;
+margin-left:30px;
+padding:0px;
+}
+#slika2 img{
+  width:500px;
+}
